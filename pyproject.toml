@@ -1,0 +1,18 @@
+[project]
+name = "krishishala"
+version = "0.1.0"
+description = "Open-source connected digital-twin farm network for school and college agriculture education"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+krishishala = "krishishala.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["krishishala"]

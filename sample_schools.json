@@ -1,0 +1,6 @@
+[
+  {"id": 1, "name": "Demo School Chennai (terrace hydroponics)", "state": "Tamil Nadu", "district": "Chennai", "language": "ta", "farm_type": "hydroponic"},
+  {"id": 2, "name": "Demo Village School Punjab (field plot)", "state": "Punjab", "district": "Ludhiana", "language": "hi", "farm_type": "field"},
+  {"id": 3, "name": "Demo Urban School Pune (vertical garden)", "state": "Maharashtra", "district": "Pune", "language": "en", "farm_type": "vertical"},
+  {"id": 4, "name": "Demo Agri College Vellore (agri-lab)", "state": "Tamil Nadu", "district": "Vellore", "language": "ta", "farm_type": "agri_lab"}
+]
